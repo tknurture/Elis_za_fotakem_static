@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://eliskaondruchova.cz/sitemap.xml
+Sitemap: https://www.eliskaondruchova.cz/sitemap.xml
